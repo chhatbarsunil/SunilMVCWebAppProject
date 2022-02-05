@@ -2,7 +2,7 @@ using System;
 
 namespace SunilMVCWebAppProject.Models
 {
-    public class ErrorViewModel
+    public class ErrorViewModel 
     {
         public string RequestId { get; set; }
 
